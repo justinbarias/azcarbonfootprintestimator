@@ -1,0 +1,10 @@
+﻿"TimeGenerated [UTC]",ClusterName,"_ResourceId",AggregatedValue
+"9/21/2022, 9:15:00.000 AM","aks-hack22-aas","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","7.548241931555556"
+"9/21/2022, 9:30:00.000 AM","aks-hack22-aas","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","7.661634137722221"
+"9/21/2022, 9:45:00.000 AM","aks-hack22-aas","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","7.555548165277776"
+"9/21/2022, 10:00:00.000 AM","aks-hack22-aas","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","7.58747316577778"
+"9/21/2022, 10:15:00.000 AM","aks-hack22-aas","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","7.529833896999998"
+"9/21/2022, 10:30:00.000 AM","aks-hack22-aas","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","7.603806629777783"
+"9/21/2022, 10:45:00.000 AM","aks-hack22-aas","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","8.035568519166667"
+"9/21/2022, 7:00:00.000 PM","aks-hack22-aas","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","6.525117996666675"
+"9/21/2022, 7:15:00.000 PM","aks-hack22-aas","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","6.606423100486112"

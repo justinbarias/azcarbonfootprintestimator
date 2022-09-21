@@ -1,13 +1,21 @@
 ,WorkloadType,Region,WorkloadName,TotalgCO2eq
 0,aks,asia_east,20220920_AKS_Standard_D3_v2_1Node_EastAsia_neharai.csv,1.9651323061064583
-1,aks,asia_east,20220920_AKS_Standard_D3_v2_2Node_EastAsia_neharai.csv,2.0414129236235246
-2,aks,eu_west,Sept 20-AKS-F2S_V2-WestEurope-ZoeYang.csv,0.9961354510966333
-3,aks,au_east,19.09.22-AKS-VM_D2_v2-2node-AustraliaEast-ValeriaHesse.csv,3.225909488509229
-4,aks,au_east,19.20.22-AKS-VM_D3_v2-1node-AustraliaEast-ValeriaHesse.csv,3.225909488509229
-5,aks,au_east,19.20.22-AKS-VM_D3_v2-2node-AustraliaEast-ValeriaHesse.csv,3.2399147159724624
-6,aks,au_east,19.09.22-AKS-VM_D2_v2-1node-AustraliaEast-ValeriaHesse.csv,3.225909488509229
-7,aks,eu_north,20-sep-2022-AKS-D3V2-2nodes-northeurope-flkelly-query_data.csv,2.9207952832085806
-8,aks,eu_north,20-sep-2022-AKS-D3V2-3nodes-northeurope-flkelly-query_data.csv,2.776249625923376
-9,vm,eu_west,Sept 20-VM-DS2V2-WestEurope-ZoeYang.csv,1.1893611402731497
-10,vm,eu_west,Sept 20-VM-F2S_V2-WestEurope-ZoeYang.csv,1.5089839723266436
-11,vm,eu_north,21-sep-2022-VM-D3V2-northeurope-flkelly-query_data.csv,0.8116656991228481
+1,aks,asia_east,20220920_AKS_Standard_D3_v2_3Node_EastAsia_neharai.csv,1.9413802851852726
+2,aks,asia_east,20220920_AKS_Standard_D3_v2_2Node_EastAsia_neharai.csv,2.0414129236235246
+3,aks,eu_west,19 sep-AKS-VM_DS2V2_3nodes-WestEurope-ZanaPekmez2.csv,2.809271279206433
+4,aks,eu_west,21 sep-2022-AKS-D2V2_2nodes_westeurope_zanapekmez.csv,3.7939437853463627
+5,aks,eu_west,Sept 20-AKS-F2S_V2-WestEurope-ZoeYang.csv,0.9961354510966333
+6,aks,au_east,19.09.22-AKS-VM_D2_v2-2node-AustraliaEast-ValeriaHesse.csv,3.225909488509229
+7,aks,au_east,19.20.22-AKS-VM_D3_v2-1node-AustraliaEast-ValeriaHesse.csv,3.225909488509229
+8,aks,au_east,19.20.22-AKS-VM_D3_v2-2node-AustraliaEast-ValeriaHesse.csv,3.2399147159724624
+9,aks,au_east,19.09.22-AKS-VM_D2_v2-1node-AustraliaEast-ValeriaHesse.csv,3.225909488509229
+10,aks,eu_north,21-sep-2022-AKS-D3V2-1nodes-northeurope-flkelly-query_data.csv,2.5321752652061393
+11,aks,eu_north,20-sep-2022-AKS-D3V2-2nodes-northeurope-flkelly-query_data.csv,2.9207952832085806
+12,aks,eu_north,20-sep-2022-AKS-D3V2-3nodes-northeurope-flkelly-query_data.csv,2.776249625923376
+13,aks,eu_north,20-sep-2022-AKS-F2s_v2-3nodes-northeurope-flkelly-query_data.csv,3.0545948840756094
+14,vm,eu_west,21 sep-2022-VM-DS2V2_2nodes_westeurope_zanaüekmez.csv,1.226404910225048
+15,vm,eu_west,21.09.22-VM-VM_D2_v2-WestEurope-ZoeYang.csv,2.452477399898481
+16,vm,eu_west,Sept 20-VM-DS2V2-WestEurope-ZoeYang.csv,1.1893611402731497
+17,vm,eu_west,Sept 20-VM-F2S_V2-WestEurope-ZoeYang.csv,1.5089839723266436
+18,vm,eu_north,21-sep-2022-VM-D3V2-northeurope-flkelly-query_data-run2.csv,0.6689561994372305
+19,vm,eu_north,20-sep-2022-VM-F2s_v2-vm-northeurope-flkelly-query_data.csv,0.8116656991228481
