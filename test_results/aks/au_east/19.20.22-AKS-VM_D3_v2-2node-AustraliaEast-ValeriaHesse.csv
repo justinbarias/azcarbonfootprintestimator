@@ -1,0 +1,12 @@
+﻿"TimeGenerated [UTC]",ClusterName,"_ResourceId",AggregatedValue
+"9/20/2022, 12:45:00.000 AM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","6.567533147722221"
+"9/20/2022, 1:00:00.000 AM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","6.489681372611111"
+"9/20/2022, 1:15:00.000 AM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","6.419795418222227"
+"9/20/2022, 1:30:00.000 AM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","6.586646539611113"
+"9/20/2022, 1:45:00.000 AM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","6.56955645433333"
+"9/20/2022, 2:00:00.000 AM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","6.513744521444445"
+"9/20/2022, 2:15:00.000 AM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","6.559323428472218"
+"9/20/2022, 9:45:00.000 PM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","3.503193801999998"
+"9/20/2022, 10:00:00.000 PM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","3.5591544726666644"
+"9/20/2022, 10:15:00.000 PM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","4.1277911607197"
+"9/20/2022, 9:30:00.000 PM","aks-hack22-aas","/subscriptions/46447821-4b9b-451e-a309-3ec9e8703cbc/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","3.561012250069446"

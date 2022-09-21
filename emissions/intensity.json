@@ -1,0 +1,71 @@
+[{
+    "region": "us_west",
+    "zone": "US-CAL-CISO",
+    "data": {
+        "datetime": "2022-09-21T06:00:00.000Z",
+        "carbonIntensity": 314,
+        "fossilFuelPercentage": 61.03999999999999
+    }
+},
+{
+    "region": "us_east",
+    "zone": "MIDA-PJM",
+    "data": {
+        "fossilFuelPercentage": "None",
+        "carbonIntensity": 372
+    }
+},
+{
+    "region": "eu_north",
+    "zone": "GB-NIR",
+    "data": {
+        "fossilFuelPercentage": "None",
+        "carbonIntensity": 300
+    }
+},
+{
+    "region": "eu_west",
+    "zone": "NL",
+    "data": {
+        "datetime": "2022-09-21T04:00:00.000Z",
+        "carbonIntensity": 477,
+        "fossilFuelPercentage": 88.84
+    }
+},
+{
+    "region": "asia_east",
+    "zone": "HK",
+    "data": {
+        "datetime": "2022-09-21T04:00:00.000Z",
+        "carbonIntensity": 435,
+        "fossilFuelPercentage": 72
+    }
+},
+{
+    "region": "asia_southeast",
+    "zone": "SG",
+    "data": {
+        "datetime": "2022-09-21T06:00:00.000Z",
+        "carbonIntensity": 468,
+        "fossilFuelPercentage": 91.03
+    }
+},
+{
+    "region": "au_central",
+    "zone": "AUS-NSW",
+    "data": {
+        "datetime": "2022-09-21T06:00:00.000Z",
+        "carbonIntensity": 670,
+        "fossilFuelPercentage": 83.29
+    }
+},
+{
+    "region": "au_east",
+    "zone": "AUS-NSW",
+    "data": {
+        "datetime": "2022-09-21T06:00:00.000Z",
+        "carbonIntensity": 670,
+        "fossilFuelPercentage": 83.29
+    }
+}
+]
