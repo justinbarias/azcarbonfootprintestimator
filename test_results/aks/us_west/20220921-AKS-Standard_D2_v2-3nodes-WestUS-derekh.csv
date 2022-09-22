@@ -1,0 +1,2 @@
+﻿"TimeGenerated [UTC]",ClusterName,"_ResourceId",AggregatedValue
+"9/21/2022, 3:00:00.000 PM","aks-hack22-aas","/subscriptions/759d197a-bf8c-4f1c-92fb-59043332edb7/resourcegroups/rg-hack22-aad-general/providers/microsoft.containerservice/managedclusters/aks-hack22-aas","5.741576349791667"

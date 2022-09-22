@@ -1,0 +1,4 @@
+﻿"TimeGenerated [UTC]",Computer,"_ResourceId",InstanceName,"avg_CounterValue"
+"9/21/2022, 9:45:00.000 AM","lvm-hack22-aad","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.compute/virtualmachines/lvm-hack22-aad",total,"1.0026643259580115"
+"9/21/2022, 9:45:00.000 AM","lvm-hack22-aad","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.compute/virtualmachines/lvm-hack22-aad",cpu1,"0.910491453396174"
+"9/21/2022, 9:45:00.000 AM","lvm-hack22-aad","/subscriptions/4a05645c-76ae-463d-8758-28c37e730d82/resourcegroups/rg-hack22-aad-general/providers/microsoft.compute/virtualmachines/lvm-hack22-aad",cpu0,"1.0863518793183211"
