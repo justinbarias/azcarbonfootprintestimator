@@ -58,6 +58,7 @@ memoryoptimized,Standard_DS13_v2,8,56,26,195,0,0,0
 memoryoptimized,Standard_DS14_v2,16,112,26,195,0,0,0
 memoryoptimized,Standard_DS12_v2,20,140,26,195,0,0,0
 memoryoptimized,Standard_E2_v3,2,16,26,195,0,0,0
+memoryoptimized,Standard_E2_v4,2,16,26,195,0,0,0
 memoryoptimized,Standard_E4_v3,4,32,26,195,0,0,0
 memoryoptimized,Standard_E8_v3,8,64,26,195,0,0,0
 memoryoptimized,Standard_E16_v3,16,128,26,195,0,0,0
